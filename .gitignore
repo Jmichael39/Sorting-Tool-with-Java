@@ -1,0 +1,23 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Sorting Tool with Java/*
+!/Sorting Tool with Java/task/
+/Sorting Tool with Java/task/*
+!/Sorting Tool with Java/task/src
+!/Sorting Tool with Java/task/out.txt
+
+# Project exclude paths
+/Topics/Comparator/Multiple fields/out/
+/Topics/Comparator/Multiple fields/out/production/classes/
+/Topics/Comparator/Reverse sorting/out/
+/Topics/Comparator/Reverse sorting/out/production/classes/
